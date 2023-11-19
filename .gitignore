@@ -1,2 +1,4 @@
 /.env
 /rssagg.exe
+/http/requests.http
+/.idea/
