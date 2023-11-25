@@ -1,5 +1,6 @@
 /.env
 /rssagg.exe
-/http/requests.http
 /.idea/
-/Dockerfile
+/docker/
+/http/
+/docker-compose.yml
